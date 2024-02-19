@@ -1,0 +1,6 @@
+﻿selenium==4.14.0
+flask
+apscheduler
+PyGithub
+beautifulsoup4
+yt-dlp
