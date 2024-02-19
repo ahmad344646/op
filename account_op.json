@@ -1,0 +1,119 @@
+[
+  {
+    "name": "PHPSESSID",
+    "value": "tl9t5h9cunvcngpah26s2iqp96",
+    "domain": ".seo-fast.ru",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": false
+  },
+  {
+    "name": "tmr_lvid",
+    "value": "c3eb7d55a6ea38acf9eb106d3bbfaa1a",
+    "domain": ".seo-fast.ru",
+    "path": "/",
+    "expires": 1737101561,
+    "httpOnly": false,
+    "secure": false
+  },
+  {
+    "name": "tmr_lvidTS",
+    "value": "1708321573037",
+    "domain": ".seo-fast.ru",
+    "path": "/",
+    "expires": 1737101561,
+    "httpOnly": false,
+    "secure": false
+  },
+  {
+    "name": "_ym_uid",
+    "value": "1708321574278990889",
+    "domain": ".seo-fast.ru",
+    "path": "/",
+    "expires": 1739857573,
+    "httpOnly": false,
+    "secure": true
+  },
+  {
+    "name": "_ym_d",
+    "value": "1708321574",
+    "domain": ".seo-fast.ru",
+    "path": "/",
+    "expires": 1739857573,
+    "httpOnly": false,
+    "secure": true
+  },
+  {
+    "name": "_ym_isad",
+    "value": "2",
+    "domain": ".seo-fast.ru",
+    "path": "/",
+    "expires": 1708393575,
+    "httpOnly": false,
+    "secure": true
+  },
+  {
+    "name": "entrance",
+    "value": "1aa00efcc41e4bf01953685ad6fff2f5",
+    "domain": "seo-fast.ru",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": false
+  },
+  {
+    "name": "hostname_sf",
+    "value": "seo-fast.ru",
+    "domain": "seo-fast.ru",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": false
+  },
+  {
+    "name": "_ym_visarc_42461983123",
+    "value": "c7686af9bb003ea48390a91a1520b84c",
+    "domain": "seo-fast.ru",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": false
+  },
+  {
+    "name": "fingerprint",
+    "value": "607b3091c5fd4ab41558d29e8c209504",
+    "domain": "seo-fast.ru",
+    "path": "/",
+    "expires": 1708408122,
+    "httpOnly": false,
+    "secure": false
+  },
+  {
+    "name": "window_popup_y",
+    "value": "1",
+    "domain": "seo-fast.ru",
+    "path": "/",
+    "expires": 1708926753,
+    "httpOnly": false,
+    "secure": false
+  },
+  {
+    "name": "tmr_detect",
+    "value": "0%7C1708330363864",
+    "domain": "seo-fast.ru",
+    "path": "/",
+    "expires": 1708416763,
+    "httpOnly": false,
+    "secure": false
+  },
+  {
+    "name": "_ym_visorc",
+    "value": "w",
+    "domain": ".seo-fast.ru",
+    "path": "/",
+    "expires": 1708332165,
+    "httpOnly": false,
+    "secure": true
+  }
+]
